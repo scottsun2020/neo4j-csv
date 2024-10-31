@@ -1,0 +1,7 @@
+user_id,movie_id,rating
+u1,m1,5
+u1,m2,4
+u2,m1,4
+u2,m3,5
+u3,m2,5
+u3,m4,4
